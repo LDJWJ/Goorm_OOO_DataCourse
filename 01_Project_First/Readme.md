@@ -70,7 +70,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">이정우<br/>---</div>
+            <div align="left">----<br/>---</div>
         </td>
 		<td>
 			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
