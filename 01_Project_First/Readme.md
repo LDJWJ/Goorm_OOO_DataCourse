@@ -140,8 +140,8 @@ Goorm 프로젝트과정 4기! 최고 멋진 친구들 화이팅!!!
 <hr>
 
 ##  <font color='#00AAAA'> Project </font>
-- <b>Submission   </b>: 기획서, 결과보고, 소스코드
-- <b>Presentation </b>: 10min / team, Q&A
+- <b>제출 </b>: 기획서, 결과보고, 소스코드
+- <b>발표 </b>: 10min / team, Q&A
 - <b>기억할 것  </b>: <font color='#CC0000'><b> 나눔은 성장의 첫걸음 </b></font>
 
 <br>
