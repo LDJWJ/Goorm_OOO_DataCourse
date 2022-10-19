@@ -15,15 +15,15 @@
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
 세미 프로젝트 진행(웹 데이터 수집 및 시각화, 데이터 분석)
-* 기간 : 2022.07.13(수) ~ 2022.07.27(수) <br>
-  * STEP 01. 팀명 정하기/팀 역할 나누기 <br>
+* 기간 : 2022.10.21(금) ~ 2022.11.11(금) <br>
+  * STEP 01. 프로젝트 기획서 작성 <br>
   * STEP 02. 데이터 수집 및 처리/시각화/기본 모델 만들기<br>
   * STEP 03. 모델 개선/성능 개선 및 새로운 지식 익히기<br>
-  * STEP 04. 2022.07.26(화) 22:00 최종 결과물 제출<br>
-  * STEP 05. 프로젝트 결과 팀발표 07.27 <br>
+  * STEP 04. 2022.11.10(목) 22:00 최종 결과물 제출<br>
+  * STEP 05. 프로젝트 결과 발표 07.27 <br>
   
 * 팀별 최종 발표   <br>
-  * 2022.07.27(금) 09:00~13:00 (각 팀별 발표 시간 10분 내외)
+  * 2022.11.11(금) 09:00~13:00 (각 팀별 발표 시간 10분 내외)
 <hr>
 
 ## <font color='#00AAAA'>Reference Documents</font>
@@ -65,12 +65,12 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 자비스 <br/>(팀장:이정우)<br/> 
+        <div align="center"> 팀명: --- <br/>(팀장:---)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">이정우<br/>고준희, 정주희, 최가은</div>
+            <div align="left">이정우<br/>---</div>
         </td>
 		<td>
 			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
@@ -82,12 +82,12 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:판다스<br/>(팀장:최연우)<br/> 
+        <div align="center"> 팀명: --- <br/>(팀장:---)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">최연우<br/>심연수(부팀장), 김태경, 장윤서</div>
+            <div align="left">이정우<br/>---</div>
         </td>
 		<td>
 			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
@@ -100,12 +100,12 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: AI_C <br/>(팀장:김찬별)<br/> 
+        <div align="center"> 팀명: --- <br/>(팀장:---)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">김찬별<br/> 박윤수(부팀장), 이주행, 조기쁨, 최찬혁 </div>
+            <div align="left">이정우<br/>---</div>
         </td>
 		<td>
 			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
@@ -117,12 +117,12 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 구름다리 <br/>(팀장:박 종민)<br/> 
+        <div align="center"> 팀명: --- <br/>(팀장:---)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">박 종민<br/> 손희경(부팀장), 박규리, 백진선, 윤형석 </div>
+            <div align="left">이정우<br/>---</div>
         </td>
 		<td>
 			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
@@ -136,7 +136,7 @@
 </div>
 <hr>
 
-Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
+Goorm 프로젝트과정 4기! 최고 멋진 친구들 화이팅!!!
 <hr>
 
 ##  <font color='#00AAAA'>Team Project : Final Report</font>
