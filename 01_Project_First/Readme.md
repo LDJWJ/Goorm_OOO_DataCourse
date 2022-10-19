@@ -39,7 +39,7 @@
 <hr>
 
 
-##  <font color='#00AAAA'>Team Project : Kick Off</font>
+##  <font color='#00AAAA'>Pilot Project</font>
 
 - <b>1st Subject </b>: <font color='#CC0000'><b> 우리의 관심 분야 데이터 수집/분석해보기 </b></font>
 - <b>Our Motto   </b>: <font color='#CC0000'><b> 작은 태도, 작은 땀, 작은 노력이 모여 더 나은 곳으로 인도합니다. </b></font>
@@ -139,7 +139,7 @@
 Goorm 프로젝트과정 4기! 최고 멋진 친구들 화이팅!!!
 <hr>
 
-##  <font color='#00AAAA'>Team Project : Final Report</font>
+##  <font color='#00AAAA'> Project </font>
 - <b>Submission   </b>: 착수보고, 결과보고, 소스코드
 - <b>Presentation </b>: 10min / team, Q&A
 - <b>Keep in mind </b>: <font color='#CC0000'><b> Share Lessons Learned !! </b></font>
